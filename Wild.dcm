@@ -16,4 +16,8 @@ $CMP SH1106G
 F https://cdn-shop.adafruit.com/product-files/5228/5223-ds.pdf
 $ENDCMP
 #
+$CMP SH1106G_Screen
+F https://cdn-shop.adafruit.com/product-files/5228/5223-ds.pdf
+$ENDCMP
+#
 #End Doc Library
