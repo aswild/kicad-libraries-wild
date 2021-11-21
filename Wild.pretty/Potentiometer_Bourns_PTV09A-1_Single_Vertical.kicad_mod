@@ -1,4 +1,4 @@
-(module Potentiometer_Bourns_PTV09A-1_Single_Vertical (layer F.Cu) (tedit 618C97FC)
+(module Potentiometer_Bourns_PTV09A-1_Single_Vertical (layer F.Cu) (tedit 619A8E3B)
   (descr "Potentiometer, vertical, Bourns PTV09A-1 Single, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf")
   (tags "Potentiometer vertical Bourns PTV09A-1 Single")
   (fp_text reference REF** (at 6.05 -10.15) (layer F.SilkS)
@@ -40,7 +40,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model /workspace/kicad-libraries-wild/3d/ptv09a-4X20u.stp
+  (model :Wild:ptv09a-4X20u.stp
     (offset (xyz 7 2.5 5.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 -90))

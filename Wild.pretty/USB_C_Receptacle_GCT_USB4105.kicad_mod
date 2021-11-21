@@ -1,4 +1,4 @@
-(module USB_C_Receptacle_GCT_USB4105 (layer F.Cu) (tedit 618C9460)
+(module USB_C_Receptacle_GCT_USB4105 (layer F.Cu) (tedit 619A8E5D)
   (fp_text reference REF** (at 0 3.6) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -43,7 +43,7 @@
   (pad S1 thru_hole oval (at 4.32 4.755) (size 1 1.8) (drill oval 0.6 1.4) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -2.89 1.075) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.89 1.075) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask))
-  (model /workspace/kicad-libraries-wild/3d/USB4105-GF-A.stp
+  (model :Wild:USB4105-GF-A.stp
     (offset (xyz 0 -7.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
