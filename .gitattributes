@@ -1,0 +1,4 @@
+*.kicad_mod text=auto
+*.kicad_sym text=auto
+*.step text=auto
+*.stp text=auto
