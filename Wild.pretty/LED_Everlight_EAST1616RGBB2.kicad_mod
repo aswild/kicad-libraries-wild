@@ -151,4 +151,15 @@
 		(uuid "788ebd98-d65b-4248-b119-ae329d0a1ddf")
 	)
 	(embedded_fonts no)
+	(model "${WILD_DIR}/3d/EAST1616RGBA0.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
