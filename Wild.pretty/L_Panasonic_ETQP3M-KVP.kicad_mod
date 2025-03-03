@@ -165,7 +165,7 @@
 		(uuid "752e6c5c-e672-4476-846c-1e642f045162")
 	)
 	(embedded_fonts no)
-	(model "${WILD_3DMODEL_DIR}/PCC-M0530M-LP.stp"
+	(model "${WILD_DIR}/3d/PCC-M0530M-LP.stp"
 		(offset
 			(xyz 0 0 2.15)
 		)
