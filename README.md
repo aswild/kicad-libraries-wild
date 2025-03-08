@@ -15,3 +15,5 @@ You can also set the KiCad environment variable `WILD_DIR` to the path to this r
 My original work here is released under the Creative Commons Attribution-ShareAlike 4.0 license (CC-BY-SA-4.0).
 
 Many of the symbols and footprints here are derivative works of the main KiCad library, see https://kicad.org
+
+The Paw-Connect footprints are from LeoDJ at https://github.com/LeoDJ/Paw-Connect, released under the CC-BY-4.0 license.
