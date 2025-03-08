@@ -16,4 +16,10 @@ My original work here is released under the Creative Commons Attribution-ShareAl
 
 Many of the symbols and footprints here are derivative works of the main KiCad library, see https://kicad.org
 
+### Paw-Connect Footprints
+
 The Paw-Connect footprints are from LeoDJ at https://github.com/LeoDJ/Paw-Connect, released under the CC-BY-4.0 license.
+
+I have made the following modifications here:
+  * Re-save the files using KiCad 9.0
+  * Allow vias in the central keep-out rule area, so that a via can be connected to pad 4
